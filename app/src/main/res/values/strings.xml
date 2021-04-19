@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cat\'s Facts</string>
+    <string name="no_fact_text">Get some fact about cats</string>
+    <string name="network_not_available">Network is not available. Check your connection.</string>
+    <string name="fact_deleted">Fact deleted</string>
+    <string name="error_data_service">Error with connect to data service</string>
+    <string name="error_deleting">Deleting error</string>
+</resources>
